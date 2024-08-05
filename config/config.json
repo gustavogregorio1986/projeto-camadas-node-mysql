@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "fazenda",
+    "database": "clientes_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "fazenda",
+    "database": "clientes_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "fazenda",
+    "database": "clientes_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
